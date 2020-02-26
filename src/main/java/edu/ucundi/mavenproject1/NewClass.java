@@ -11,4 +11,5 @@ package edu.ucundi.mavenproject1;
  */
 public class NewClass {
     public int dff;
+    int variable = 0;
 }
